@@ -1,5 +1,7 @@
 # JPMorgan-virtual-SE-task
 
+Task completed during JPMorgan Chase & Co. Software Engineering Virtual Internship
+
 Task 1:
  Interface with a stock price data feed (completed Patch file 0001)
  
